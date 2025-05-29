@@ -72,7 +72,7 @@ season,country,quarter,semi,final,won
 2009/10,France,2,1,0,0
 2009/10,Russia,1,0,0,0
 2009/10,Spain,1,1,0,0
-2009/10,Italy,1,1,1,0
+2009/10,Italy,1,1,1,1
 2008/09,England,4,3,1,0
 2008/09,Spain,2,1,1,1
 2008/09,Germany,1,0,0,0
@@ -371,7 +371,7 @@ season,country,quarter,semi,final,won
 1966/67,Bulgaria,1,1,0,0
 1965/66,Belgium,1,0,0,0
 1965/66,Spain,1,1,1,1
-1965/66,Italy,1,1,1,1
+1965/66,Italy,1,1,0,0
 1965/66,Hungary,1,0,0,0
 1965/66,Czechia,1,0,0,0
 1965/66,Serbia,1,1,1,0
