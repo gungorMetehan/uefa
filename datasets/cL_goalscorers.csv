@@ -1,9 +1,9 @@
 season,player,team,n_of_goals
-2023/24,MbappÃ,Paris,8
+2023/24,Mbappe,Paris,8
 2022/23,Haaland,Man City,12
 2021/22,Benzema,Real Madrid,15
 2020/21,Haaland,B. Dortmund,10
-2019/20,Lewandowski,Bayern MÃ¼nche,15
+2019/20,Lewandowski,Bayern München,15
 2018/19,Messi,Barcelona,12
 2017/18,Ronaldo,Real Madrid,15
 2016/17,Ronaldo,Real Madrid,12
@@ -16,7 +16,7 @@ season,player,team,n_of_goals
 2009/10,Messi,Barcelona,8
 2008/09,Messi,Barcelona,9
 2007/08,Ronaldo,Man Utd,8
-2006/07,KakÃ,Milan,10
+2006/07,Kaka,Milan,10
 2005/06,Shevchenko,Milan,9
 2004/05,Adriano,Inter,10
 2003/04,Morientes,Monaco,9
@@ -30,41 +30,41 @@ season,player,team,n_of_goals
 1995/96,Litmanen,Ajax,9
 1994/95,Weah,Paris,8
 1993/94,Rufer,Bremen,8
-1992/93,RomÃ¡ri,PSV,7
+1992/93,Romario,PSV,7
 1991/92,Papin,Marseille,7
 1990/91,Papin,Marseille,6
 1989/90,Papin,Marseille,6
 1988/89,Van Basten,Milan,10
-1987/88,MÃ­che,Real Madrid,4
+1987/88,Michel,Real Madrid,4
 1986/87,Cvetkovic,Crvena Zvezda,7
-1985/86,Nilsson,GÃ¶tebor,7
-1984/85,Nilsson,GÃ¶tebor,7
+1985/86,Nilsson,Göteborg,7
+1984/85,Nilsson,Göteborg,7
 1983/84,Sokol,Dinamo-Minsk,6
 1982/83,Rossi,Juventus,5
-1981/82,D. Hoeness,Bayern MÃ¼nche,7
+1981/82,D. Hoeness,Bayern München,7
 1980/81,McDermott,Liverpool,6
 1979/80,Lerby,Ajax,10
 1978/79,Sulser,Grasshoppers,11
-1977/78,Simonsen,MÃ¶nchengladbac,5
-1976/77,G. MÃ¼lle,Bayern MÃ¼nche,5
-1975/76,Heynckes,MÃ¶nchengladbac,6
-1974/75,G. MÃ¼lle,Bayern MÃ¼nche,5
-1973/74,G. MÃ¼lle,Bayern MÃ¼nche,8
-1972/73,G. MÃ¼lle,Bayern MÃ¼nche,11
-1971/72,Takac,Standard LiÃ¨g,5
+1977/78,Simonsen,Mönchengladbach,5
+1976/77,G. Müller,Bayern München,5
+1975/76,Heynckes,Mönchengladbach,6
+1974/75,G. Müller,Bayern München,5
+1973/74,G. Müller,Bayern München,8
+1972/73,G. Müller,Bayern München,11
+1971/72,Takac,Standard Liege,5
 1970/71,Antoniadis,Panathinaikos,10
 1969/70,Jones,Leeds,8
 1968/69,Law,Man Utd,9
-1967/68,EusÃ©bi,Benfica,6
-1966/67,Piepenburg,VorwÃ¤rt,6
-1965/66,Albert,FerencvÃ¡ro,7
+1967/68,Eusebio,Benfica,6
+1966/67,Piepenburg,Vorwarts,6
+1965/66,Albert,Ferencvaros,7
 1964/65,Torres,Benfica,11
 1963/64,Mazzola,Inter,7
 1962/63,Altafini,Milan,14
-1961/62,Strehl,NÃ¼rnber,8
-1960/61,Águas,Benfica,11
-1959/60,PuskÃ¡,Real Madrid,12
+1961/62,Strehl,Nürnberg,8
+1960/61,Aguas,Benfica,11
+1959/60,Puskas,Real Madrid,12
 1958/59,Fontaine,Reims,10
-1957/58,Di StÃ©fan,Real Madrid,10
+1957/58,Di Stefano,Real Madrid,10
 1956/57,Viollet,Man Utd,9
-1955/56,MilutinoviÄ,Partizan,8
+1955/56,Milutinovic,Partizan,8
