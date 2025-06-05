@@ -1,11 +1,8 @@
-# uefa
-UEFA Datasets
+# UEFA
 
-uefa_cL
-
-uefa_cL_heatmap
-
-cL_goalscorers
+## Datasets
+* uefa_cL
+* cL_goalscorers
 
 **Notes.**
 * no quarter-finals in 1993/94 champions league
