@@ -4,7 +4,7 @@
 <img width="2400" height="1350" alt="cL_heatmap" src="https://github.com/user-attachments/assets/8a03cf7a-c3f1-4204-be2f-7e8d9f66029c" />
 
 ## Most Successful Countries in UEFA Europa League (1955/58 - 2024/25)
-<img width="2400" height="1350" alt="uefa_europaL" src="https://github.com/user-attachments/assets/8af5bc64-274d-42e3-ba09-9899701d41ce" />
+<img width="2400" height="1350" alt="uefa_europaL" src="https://github.com/user-attachments/assets/8b2a339a-cc3b-4887-9654-307bceb85834" />
 
 ## Datasets
 * uefa_cL
