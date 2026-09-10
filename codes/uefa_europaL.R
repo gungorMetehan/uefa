@@ -108,6 +108,5 @@ ggplot(uefa_europaL, aes(x = season, y = country, fill = as.factor(highest))) +
   ) +
   # displaying one out of every five values (seasons)
   scale_x_discrete(breaks = season_breaks)
-
-
-
+  # reverse legend
+  guides(fill = guide_legend(reverse = TRUE))
