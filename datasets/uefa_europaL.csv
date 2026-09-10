@@ -1,4 +1,32 @@
 season,country,quarter,semi,final,won,highest
+2025/26,England,2,2,1,1,4
+2025/26,Germany,1,1,1,0,3
+2025/26,Norway,0,0,0,0,0
+2025/26,Italy,1,0,0,0,1
+2025/26,Scotland,0,0,0,0,0
+2025/26,Spain,2,0,0,0,1
+2025/26,France,0,0,0,0,0
+2025/26,Portugal,2,1,0,0,2
+2025/26,Holland,0,0,0,0,0
+2025/26,Belgium,0,0,0,0,0
+2025/26,Croatia,0,0,0,0,0
+2025/26,Czechia,0,0,0,0,0
+2025/26,Denmark,0,0,0,0,0
+2025/26,Ukraine,0,0,0,0,0
+2025/26,Switzerland,0,0,0,0,0
+2025/26,Austria,0,0,0,0,0
+2025/26,Russia,0,0,0,0,0
+2025/26,Turkiye,0,0,0,0,0
+2025/26,Romania,0,0,0,0,0
+2025/26,Bulgaria,0,0,0,0,0
+2025/26,Greece,0,0,0,0,0
+2025/26,Israel,0,0,0,0,0
+2025/26,Sweden,0,0,0,0,0
+2025/26,Bosnia and Herzegovina,0,0,0,0,0
+2025/26,Belarus,0,0,0,0,0
+2025/26,Hungary,0,0,0,0,0
+2025/26,Serbia,0,0,0,0,0
+2025/26,Poland,0,0,0,0,0
 2024/25,England,2,2,2,1,4
 2024/25,Germany,1,0,0,0,1
 2024/25,Norway,1,1,0,0,2
@@ -9,7 +37,7 @@ season,country,quarter,semi,final,won,highest
 2024/25,Portugal,0,0,0,0,0
 2024/25,Holland,0,0,0,0,0
 2024/25,Belgium,0,0,0,0,0
-2024/25,Crotia,0,0,0,0,0
+2024/25,Croatia,0,0,0,0,0
 2024/25,Czechia,0,0,0,0,0
 2024/25,Denmark,0,0,0,0,0
 2024/25,Ukraine,0,0,0,0,0
@@ -37,7 +65,7 @@ season,country,quarter,semi,final,won,highest
 2023/24,Portugal,1,0,0,0,1
 2023/24,Holland,0,0,0,0,0
 2023/24,Belgium,0,0,0,0,0
-2023/24,Crotia,0,0,0,0,0
+2023/24,Croatia,0,0,0,0,0
 2023/24,Czechia,0,0,0,0,0
 2023/24,Denmark,0,0,0,0,0
 2023/24,Ukraine,0,0,0,0,0
@@ -65,7 +93,7 @@ season,country,quarter,semi,final,won,highest
 2022/23,Portugal,1,0,0,0,1
 2022/23,Holland,1,0,0,0,1
 2022/23,Belgium,1,0,0,0,1
-2022/23,Crotia,0,0,0,0,0
+2022/23,Croatia,0,0,0,0,0
 2022/23,Czechia,0,0,0,0,0
 2022/23,Denmark,0,0,0,0,0
 2022/23,Ukraine,0,0,0,0,0
@@ -93,7 +121,7 @@ season,country,quarter,semi,final,won,highest
 2021/22,Portugal,1,0,0,0,1
 2021/22,Holland,0,0,0,0,0
 2021/22,Belgium,0,0,0,0,0
-2021/22,Crotia,0,0,0,0,0
+2021/22,Croatia,0,0,0,0,0
 2021/22,Czechia,0,0,0,0,0
 2021/22,Denmark,0,0,0,0,0
 2021/22,Ukraine,0,0,0,0,0
@@ -121,7 +149,7 @@ season,country,quarter,semi,final,won,highest
 2020/21,Portugal,0,0,0,0,0
 2020/21,Holland,1,0,0,0,1
 2020/21,Belgium,0,0,0,0,0
-2020/21,Crotia,1,0,0,0,1
+2020/21,Croatia,1,0,0,0,1
 2020/21,Czechia,1,0,0,0,1
 2020/21,Denmark,0,0,0,0,0
 2020/21,Ukraine,0,0,0,0,0
@@ -149,7 +177,7 @@ season,country,quarter,semi,final,won,highest
 2019/20,Portugal,0,0,0,0,0
 2019/20,Holland,0,0,0,0,0
 2019/20,Belgium,0,0,0,0,0
-2019/20,Crotia,0,0,0,0,0
+2019/20,Croatia,0,0,0,0,0
 2019/20,Czechia,0,0,0,0,0
 2019/20,Denmark,1,0,0,0,1
 2019/20,Ukraine,1,1,0,0,2
@@ -177,7 +205,7 @@ season,country,quarter,semi,final,won,highest
 2018/19,Portugal,1,0,0,0,1
 2018/19,Holland,0,0,0,0,0
 2018/19,Belgium,0,0,0,0,0
-2018/19,Crotia,0,0,0,0,0
+2018/19,Croatia,0,0,0,0,0
 2018/19,Czechia,1,0,0,0,1
 2018/19,Denmark,0,0,0,0,0
 2018/19,Ukraine,0,0,0,0,0
@@ -205,7 +233,7 @@ season,country,quarter,semi,final,won,highest
 2017/18,Portugal,1,0,0,0,1
 2017/18,Holland,0,0,0,0,0
 2017/18,Belgium,0,0,0,0,0
-2017/18,Crotia,0,0,0,0,0
+2017/18,Croatia,0,0,0,0,0
 2017/18,Czechia,0,0,0,0,0
 2017/18,Denmark,0,0,0,0,0
 2017/18,Ukraine,0,0,0,0,0
@@ -233,7 +261,7 @@ season,country,quarter,semi,final,won,highest
 2016/17,Portugal,0,0,0,0,0
 2016/17,Holland,1,1,1,0,3
 2016/17,Belgium,2,0,0,0,1
-2016/17,Crotia,0,0,0,0,0
+2016/17,Croatia,0,0,0,0,0
 2016/17,Czechia,0,0,0,0,0
 2016/17,Denmark,0,0,0,0,0
 2016/17,Ukraine,0,0,0,0,0
@@ -261,7 +289,7 @@ season,country,quarter,semi,final,won,highest
 2015/16,Portugal,1,0,0,0,1
 2015/16,Holland,0,0,0,0,0
 2015/16,Belgium,0,0,0,0,0
-2015/16,Crotia,0,0,0,0,0
+2015/16,Croatia,0,0,0,0,0
 2015/16,Czechia,1,0,0,0,1
 2015/16,Denmark,0,0,0,0,0
 2015/16,Ukraine,1,1,0,0,2
@@ -289,7 +317,7 @@ season,country,quarter,semi,final,won,highest
 2014/15,Portugal,0,0,0,0,0
 2014/15,Holland,0,0,0,0,0
 2014/15,Belgium,1,0,0,0,1
-2014/15,Crotia,0,0,0,0,0
+2014/15,Croatia,0,0,0,0,0
 2014/15,Czechia,0,0,0,0,0
 2014/15,Denmark,0,0,0,0,0
 2014/15,Ukraine,2,1,1,0,3
@@ -317,7 +345,7 @@ season,country,quarter,semi,final,won,highest
 2013/14,Portugal,2,1,1,0,3
 2013/14,Holland,1,0,0,0,1
 2013/14,Belgium,0,0,0,0,0
-2013/14,Crotia,0,0,0,0,0
+2013/14,Croatia,0,0,0,0,0
 2013/14,Czechia,0,0,0,0,0
 2013/14,Denmark,0,0,0,0,0
 2013/14,Ukraine,0,0,0,0,0
@@ -345,7 +373,7 @@ season,country,quarter,semi,final,won,highest
 2012/13,Portugal,1,1,1,0,3
 2012/13,Holland,0,0,0,0,0
 2012/13,Belgium,0,0,0,0,0
-2012/13,Crotia,0,0,0,0,0
+2012/13,Croatia,0,0,0,0,0
 2012/13,Czechia,0,0,0,0,0
 2012/13,Denmark,0,0,0,0,0
 2012/13,Ukraine,0,0,0,0,0
@@ -373,7 +401,7 @@ season,country,quarter,semi,final,won,highest
 2011/12,Portugal,1,1,0,0,2
 2011/12,Holland,1,0,0,0,1
 2011/12,Belgium,0,0,0,0,0
-2011/12,Crotia,0,0,0,0,0
+2011/12,Croatia,0,0,0,0,0
 2011/12,Czechia,0,0,0,0,0
 2011/12,Denmark,0,0,0,0,0
 2011/12,Ukraine,1,0,0,0,1
@@ -401,7 +429,7 @@ season,country,quarter,semi,final,won,highest
 2010/11,Portugal,3,3,2,1,4
 2010/11,Holland,2,0,0,0,1
 2010/11,Belgium,0,0,0,0,0
-2010/11,Crotia,0,0,0,0,0
+2010/11,Croatia,0,0,0,0,0
 2010/11,Czechia,0,0,0,0,0
 2010/11,Denmark,0,0,0,0,0
 2010/11,Ukraine,1,0,0,0,1
@@ -429,7 +457,7 @@ season,country,quarter,semi,final,won,highest
 2009/10,Portugal,1,0,0,0,1
 2009/10,Holland,0,0,0,0,0
 2009/10,Belgium,1,0,0,0,1
-2009/10,Crotia,0,0,0,0,0
+2009/10,Croatia,0,0,0,0,0
 2009/10,Czechia,0,0,0,0,0
 2009/10,Denmark,0,0,0,0,0
 2009/10,Ukraine,0,0,0,0,0
@@ -457,7 +485,7 @@ season,country,quarter,semi,final,won,highest
 2008/09,Portugal,0,0,0,0,0
 2008/09,Holland,0,0,0,0,0
 2008/09,Belgium,0,0,0,0,0
-2008/09,Crotia,0,0,0,0,0
+2008/09,Croatia,0,0,0,0,0
 2008/09,Czechia,0,0,0,0,0
 2008/09,Denmark,0,0,0,0,0
 2008/09,Ukraine,2,2,1,1,4
@@ -485,7 +513,7 @@ season,country,quarter,semi,final,won,highest
 2007/08,Portugal,1,0,0,0,1
 2007/08,Holland,1,0,0,0,1
 2007/08,Belgium,0,0,0,0,0
-2007/08,Crotia,0,0,0,0,0
+2007/08,Croatia,0,0,0,0,0
 2007/08,Czechia,0,0,0,0,0
 2007/08,Denmark,0,0,0,0,0
 2007/08,Ukraine,0,0,0,0,0
@@ -513,7 +541,7 @@ season,country,quarter,semi,final,won,highest
 2006/07,Portugal,1,0,0,0,1
 2006/07,Holland,1,0,0,0,1
 2006/07,Belgium,0,0,0,0,0
-2006/07,Crotia,0,0,0,0,0
+2006/07,Croatia,0,0,0,0,0
 2006/07,Czechia,0,0,0,0,0
 2006/07,Denmark,0,0,0,0,0
 2006/07,Ukraine,0,0,0,0,0
@@ -541,7 +569,7 @@ season,country,quarter,semi,final,won,highest
 2005/06,Portugal,0,0,0,0,0
 2005/06,Holland,0,0,0,0,0
 2005/06,Belgium,0,0,0,0,0
-2005/06,Crotia,0,0,0,0,0
+2005/06,Croatia,0,0,0,0,0
 2005/06,Czechia,0,0,0,0,0
 2005/06,Denmark,0,0,0,0,0
 2005/06,Ukraine,0,0,0,0,0
@@ -569,7 +597,7 @@ season,country,quarter,semi,final,won,highest
 2004/05,Portugal,1,1,1,0,3
 2004/05,Holland,1,1,0,0,2
 2004/05,Belgium,0,0,0,0,0
-2004/05,Crotia,0,0,0,0,0
+2004/05,Croatia,0,0,0,0,0
 2004/05,Czechia,0,0,0,0,0
 2004/05,Denmark,0,0,0,0,0
 2004/05,Ukraine,0,0,0,0,0
@@ -597,7 +625,7 @@ season,country,quarter,semi,final,won,highest
 2003/04,Portugal,0,0,0,0,0
 2003/04,Holland,1,0,0,0,1
 2003/04,Belgium,0,0,0,0,0
-2003/04,Crotia,0,0,0,0,0
+2003/04,Croatia,0,0,0,0,0
 2003/04,Czechia,0,0,0,0,0
 2003/04,Denmark,0,0,0,0,0
 2003/04,Ukraine,0,0,0,0,0
@@ -625,7 +653,7 @@ season,country,quarter,semi,final,won,highest
 2002/03,Portugal,2,2,1,1,4
 2002/03,Holland,0,0,0,0,0
 2002/03,Belgium,0,0,0,0,0
-2002/03,Crotia,0,0,0,0,0
+2002/03,Croatia,0,0,0,0,0
 2002/03,Czechia,0,0,0,0,0
 2002/03,Denmark,0,0,0,0,0
 2002/03,Ukraine,0,0,0,0,0
@@ -653,7 +681,7 @@ season,country,quarter,semi,final,won,highest
 2001/02,Portugal,0,0,0,0,0
 2001/02,Holland,2,1,1,1,4
 2001/02,Belgium,0,0,0,0,0
-2001/02,Crotia,0,0,0,0,0
+2001/02,Croatia,0,0,0,0,0
 2001/02,Czechia,1,0,0,0,1
 2001/02,Denmark,0,0,0,0,0
 2001/02,Ukraine,0,0,0,0,0
@@ -681,7 +709,7 @@ season,country,quarter,semi,final,won,highest
 2000/01,Portugal,1,0,0,0,1
 2000/01,Holland,1,0,0,0,1
 2000/01,Belgium,0,0,0,0,0
-2000/01,Crotia,0,0,0,0,0
+2000/01,Croatia,0,0,0,0,0
 2000/01,Czechia,0,0,0,0,0
 2000/01,Denmark,0,0,0,0,0
 2000/01,Ukraine,0,0,0,0,0
@@ -709,7 +737,7 @@ season,country,quarter,semi,final,won,highest
 1999/00,Portugal,0,0,0,0,0
 1999/00,Holland,0,0,0,0,0
 1999/00,Belgium,0,0,0,0,0
-1999/00,Crotia,0,0,0,0,0
+1999/00,Croatia,0,0,0,0,0
 1999/00,Czechia,1,0,0,0,1
 1999/00,Denmark,0,0,0,0,0
 1999/00,Ukraine,0,0,0,0,0
@@ -737,7 +765,7 @@ season,country,quarter,semi,final,won,highest
 1998/99,Portugal,0,0,0,0,0
 1998/99,Holland,0,0,0,0,0
 1998/99,Belgium,0,0,0,0,0
-1998/99,Crotia,0,0,0,0,0
+1998/99,Croatia,0,0,0,0,0
 1998/99,Czechia,0,0,0,0,0
 1998/99,Denmark,0,0,0,0,0
 1998/99,Ukraine,0,0,0,0,0
@@ -765,7 +793,7 @@ season,country,quarter,semi,final,won,highest
 1997/98,Portugal,0,0,0,0,0
 1997/98,Holland,1,0,0,0,1
 1997/98,Belgium,0,0,0,0,0
-1997/98,Crotia,0,0,0,0,0
+1997/98,Croatia,0,0,0,0,0
 1997/98,Czechia,0,0,0,0,0
 1997/98,Denmark,0,0,0,0,0
 1997/98,Ukraine,0,0,0,0,0
@@ -793,7 +821,7 @@ season,country,quarter,semi,final,won,highest
 1996/97,Portugal,0,0,0,0,0
 1996/97,Holland,0,0,0,0,0
 1996/97,Belgium,1,0,0,0,1
-1996/97,Crotia,0,0,0,0,0
+1996/97,Croatia,0,0,0,0,0
 1996/97,Czechia,0,0,0,0,0
 1996/97,Denmark,1,0,0,0,1
 1996/97,Ukraine,0,0,0,0,0
@@ -821,7 +849,7 @@ season,country,quarter,semi,final,won,highest
 1995/96,Portugal,0,0,0,0,0
 1995/96,Holland,1,0,0,0,1
 1995/96,Belgium,0,0,0,0,0
-1995/96,Crotia,0,0,0,0,0
+1995/96,Croatia,0,0,0,0,0
 1995/96,Czechia,1,1,0,0,2
 1995/96,Denmark,0,0,0,0,0
 1995/96,Ukraine,0,0,0,0,0
@@ -849,7 +877,7 @@ season,country,quarter,semi,final,won,highest
 1994/95,Portugal,0,0,0,0,0
 1994/95,Holland,0,0,0,0,0
 1994/95,Belgium,0,0,0,0,0
-1994/95,Crotia,0,0,0,0,0
+1994/95,Croatia,0,0,0,0,0
 1994/95,Czechia,0,0,0,0,0
 1994/95,Denmark,1,0,0,0,1
 1994/95,Ukraine,0,0,0,0,0
@@ -877,7 +905,7 @@ season,country,quarter,semi,final,won,highest
 1993/94,Portugal,1,0,0,0,1
 1993/94,Holland,0,0,0,0,0
 1993/94,Belgium,0,0,0,0,0
-1993/94,Crotia,0,0,0,0,0
+1993/94,Croatia,0,0,0,0,0
 1993/94,Czechia,0,0,0,0,0
 1993/94,Denmark,0,0,0,0,0
 1993/94,Ukraine,0,0,0,0,0
@@ -905,7 +933,7 @@ season,country,quarter,semi,final,won,highest
 1992/93,Portugal,1,0,0,0,1
 1992/93,Holland,1,0,0,0,1
 1992/93,Belgium,0,0,0,0,0
-1992/93,Crotia,0,0,0,0,0
+1992/93,Croatia,0,0,0,0,0
 1992/93,Czechia,0,0,0,0,0
 1992/93,Denmark,0,0,0,0,0
 1992/93,Ukraine,0,0,0,0,0
@@ -933,7 +961,7 @@ season,country,quarter,semi,final,won,highest
 1991/92,Portugal,0,0,0,0,0
 1991/92,Holland,1,1,1,1,4
 1991/92,Belgium,1,0,0,0,1
-1991/92,Crotia,0,0,0,0,0
+1991/92,Croatia,0,0,0,0,0
 1991/92,Czechia,1,0,0,0,1
 1991/92,Denmark,1,0,0,0,1
 1991/92,Ukraine,0,0,0,0,0
@@ -961,7 +989,7 @@ season,country,quarter,semi,final,won,highest
 1990/91,Portugal,1,1,0,0,2
 1990/91,Holland,0,0,0,0,0
 1990/91,Belgium,1,0,0,0,1
-1990/91,Crotia,0,0,0,0,0
+1990/91,Croatia,0,0,0,0,0
 1990/91,Czechia,0,0,0,0,0
 1990/91,Denmark,1,1,0,0,2
 1990/91,Ukraine,0,0,0,0,0
@@ -989,7 +1017,7 @@ season,country,quarter,semi,final,won,highest
 1898/90,Portugal,0,0,0,0,0
 1898/90,Holland,0,0,0,0,0
 1898/90,Belgium,2,0,0,0,1
-1898/90,Crotia,0,0,0,0,0
+1898/90,Croatia,0,0,0,0,0
 1898/90,Czechia,0,0,0,0,0
 1898/90,Denmark,0,0,0,0,0
 1898/90,Ukraine,0,0,0,0,0
@@ -1017,7 +1045,7 @@ season,country,quarter,semi,final,won,highest
 1988/89,Portugal,0,0,0,0,0
 1988/89,Holland,0,0,0,0,0
 1988/89,Belgium,0,0,0,0,0
-1988/89,Crotia,0,0,0,0,0
+1988/89,Croatia,0,0,0,0,0
 1988/89,Czechia,0,0,0,0,0
 1988/89,Denmark,0,0,0,0,0
 1988/89,Ukraine,0,0,0,0,0
@@ -1045,7 +1073,7 @@ season,country,quarter,semi,final,won,highest
 1987/88,Portugal,0,0,0,0,0
 1987/88,Holland,0,0,0,0,0
 1987/88,Belgium,1,1,0,0,2
-1987/88,Crotia,0,0,0,0,0
+1987/88,Croatia,0,0,0,0,0
 1987/88,Czechia,1,0,0,0,1
 1987/88,Denmark,0,0,0,0,0
 1987/88,Ukraine,0,0,0,0,0
@@ -1073,7 +1101,7 @@ season,country,quarter,semi,final,won,highest
 1986/87,Portugal,1,0,0,0,1
 1986/87,Holland,0,0,0,0,0
 1986/87,Belgium,0,0,0,0,0
-1986/87,Crotia,0,0,0,0,0
+1986/87,Croatia,0,0,0,0,0
 1986/87,Czechia,0,0,0,0,0
 1986/87,Denmark,0,0,0,0,0
 1986/87,Ukraine,0,0,0,0,0
@@ -1101,7 +1129,7 @@ season,country,quarter,semi,final,won,highest
 1985/86,Portugal,1,0,0,0,1
 1985/86,Holland,0,0,0,0,0
 1985/86,Belgium,1,1,0,0,2
-1985/86,Crotia,1,0,0,0,1
+1985/86,Croatia,1,0,0,0,1
 1985/86,Czechia,0,0,0,0,0
 1985/86,Denmark,0,0,0,0,0
 1985/86,Ukraine,0,0,0,0,0
@@ -1129,7 +1157,7 @@ season,country,quarter,semi,final,won,highest
 1984/85,Portugal,0,0,0,0,0
 1984/85,Holland,0,0,0,0,0
 1984/85,Belgium,0,0,0,0,0
-1984/85,Crotia,0,0,0,0,0
+1984/85,Croatia,0,0,0,0,0
 1984/85,Czechia,0,0,0,0,0
 1984/85,Denmark,0,0,0,0,0
 1984/85,Ukraine,0,0,0,0,0
@@ -1157,7 +1185,7 @@ season,country,quarter,semi,final,won,highest
 1983/84,Portugal,0,0,0,0,0
 1983/84,Holland,0,0,0,0,0
 1983/84,Belgium,1,1,1,0,3
-1983/84,Crotia,1,1,0,0,2
+1983/84,Croatia,1,1,0,0,2
 1983/84,Czechia,1,0,0,0,1
 1983/84,Denmark,0,0,0,0,0
 1983/84,Ukraine,0,0,0,0,0
@@ -1185,7 +1213,7 @@ season,country,quarter,semi,final,won,highest
 1982/83,Portugal,1,1,1,0,3
 1982/83,Holland,0,0,0,0,0
 1982/83,Belgium,1,1,1,1,4
-1982/83,Crotia,0,0,0,0,0
+1982/83,Croatia,0,0,0,0,0
 1982/83,Czechia,1,1,0,0,2
 1982/83,Denmark,0,0,0,0,0
 1982/83,Ukraine,0,0,0,0,0
@@ -1213,7 +1241,7 @@ season,country,quarter,semi,final,won,highest
 1981/82,Portugal,0,0,0,0,0
 1981/82,Holland,0,0,0,0,0
 1981/82,Belgium,0,0,0,0,0
-1981/82,Crotia,0,0,0,0,0
+1981/82,Croatia,0,0,0,0,0
 1981/82,Czechia,0,0,0,0,0
 1981/82,Denmark,0,0,0,0,0
 1981/82,Ukraine,0,0,0,0,0
@@ -1241,7 +1269,7 @@ season,country,quarter,semi,final,won,highest
 1980/81,Portugal,0,0,0,0,0
 1980/81,Holland,1,1,1,0,3
 1980/81,Belgium,2,0,0,0,1
-1980/81,Crotia,0,0,0,0,0
+1980/81,Croatia,0,0,0,0,0
 1980/81,Czechia,0,0,0,0,0
 1980/81,Denmark,0,0,0,0,0
 1980/81,Ukraine,0,0,0,0,0
@@ -1269,7 +1297,7 @@ season,country,quarter,semi,final,won,highest
 1979/80,Portugal,0,0,0,0,0
 1979/80,Holland,0,0,0,0,0
 1979/80,Belgium,0,0,0,0,0
-1979/80,Crotia,0,0,0,0,0
+1979/80,Croatia,0,0,0,0,0
 1979/80,Czechia,1,0,0,0,1
 1979/80,Denmark,0,0,0,0,0
 1979/80,Ukraine,0,0,0,0,0
@@ -1297,7 +1325,7 @@ season,country,quarter,semi,final,won,highest
 1978/79,Portugal,0,0,0,0,0
 1978/79,Holland,0,0,0,0,0
 1978/79,Belgium,0,0,0,0,0
-1978/79,Crotia,0,0,0,0,0
+1978/79,Croatia,0,0,0,0,0
 1978/79,Czechia,1,0,0,0,1
 1978/79,Denmark,0,0,0,0,0
 1978/79,Ukraine,0,0,0,0,0
@@ -1325,7 +1353,7 @@ season,country,quarter,semi,final,won,highest
 1977/78,Portugal,0,0,0,0,0
 1977/78,Holland,1,1,1,1,4
 1977/78,Belgium,0,0,0,0,0
-1977/78,Crotia,0,0,0,0,0
+1977/78,Croatia,0,0,0,0,0
 1977/78,Czechia,0,0,0,0,0
 1977/78,Denmark,0,0,0,0,0
 1977/78,Ukraine,0,0,0,0,0
@@ -1353,7 +1381,7 @@ season,country,quarter,semi,final,won,highest
 1976/77,Portugal,0,0,0,0,0
 1976/77,Holland,1,0,0,0,1
 1976/77,Belgium,1,1,0,0,2
-1976/77,Crotia,0,0,0,0,0
+1976/77,Croatia,0,0,0,0,0
 1976/77,Czechia,0,0,0,0,0
 1976/77,Denmark,0,0,0,0,0
 1976/77,Ukraine,0,0,0,0,0
@@ -1381,7 +1409,7 @@ season,country,quarter,semi,final,won,highest
 1975/76,Portugal,0,0,0,0,0
 1975/76,Holland,0,0,0,0,0
 1975/76,Belgium,1,1,1,0,3
-1975/76,Crotia,0,0,0,0,0
+1975/76,Croatia,0,0,0,0,0
 1975/76,Czechia,0,0,0,0,0
 1975/76,Denmark,0,0,0,0,0
 1975/76,Ukraine,0,0,0,0,0
@@ -1409,7 +1437,7 @@ season,country,quarter,semi,final,won,highest
 1974/75,Portugal,0,0,0,0,0
 1974/75,Holland,2,1,1,0,3
 1974/75,Belgium,0,0,0,0,0
-1974/75,Crotia,0,0,0,0,0
+1974/75,Croatia,0,0,0,0,0
 1974/75,Czechia,1,0,0,0,1
 1974/75,Denmark,0,0,0,0,0
 1974/75,Ukraine,0,0,0,0,0
@@ -1437,7 +1465,7 @@ season,country,quarter,semi,final,won,highest
 1973/74,Portugal,1,0,0,0,1
 1973/74,Holland,1,1,1,1,4
 1973/74,Belgium,0,0,0,0,0
-1973/74,Crotia,0,0,0,0,0
+1973/74,Croatia,0,0,0,0,0
 1973/74,Czechia,0,0,0,0,0
 1973/74,Denmark,0,0,0,0,0
 1973/74,Ukraine,0,0,0,0,0
@@ -1465,7 +1493,7 @@ season,country,quarter,semi,final,won,highest
 1972/73,Portugal,1,0,0,0,1
 1972/73,Holland,1,1,1,0,3
 1972/73,Belgium,0,0,0,0,0
-1972/73,Crotia,0,0,0,0,0
+1972/73,Croatia,0,0,0,0,0
 1972/73,Czechia,0,0,0,0,0
 1972/73,Denmark,0,0,0,0,0
 1972/73,Ukraine,0,0,0,0,0
@@ -1493,7 +1521,7 @@ season,country,quarter,semi,final,won,highest
 1971/72,Portugal,0,0,0,0,0
 1971/72,Holland,0,0,0,0,0
 1971/72,Belgium,1,0,0,0,1
-1971/72,Crotia,0,0,0,0,0
+1971/72,Croatia,0,0,0,0,0
 1971/72,Czechia,0,0,0,0,0
 1971/72,Denmark,0,0,0,0,0
 1971/72,Ukraine,0,0,0,0,0
@@ -1521,7 +1549,7 @@ season,country,quarter,semi,final,won,highest
 1970/71,Portugal,1,0,0,0,1
 1970/71,Holland,1,0,0,0,1
 1970/71,Belgium,0,0,0,0,0
-1970/71,Crotia,0,0,0,0,0
+1970/71,Croatia,0,0,0,0,0
 1970/71,Czechia,0,0,0,0,0
 1970/71,Denmark,0,0,0,0,0
 1970/71,Ukraine,0,0,0,0,0
@@ -1549,7 +1577,7 @@ season,country,quarter,semi,final,won,highest
 1969/70,Portugal,0,0,0,0,0
 1969/70,Holland,1,1,0,0,2
 1969/70,Belgium,1,1,1,0,3
-1969/70,Crotia,0,0,0,0,0
+1969/70,Croatia,0,0,0,0,0
 1969/70,Czechia,0,0,0,0,0
 1969/70,Denmark,0,0,0,0,0
 1969/70,Ukraine,0,0,0,0,0
@@ -1577,7 +1605,7 @@ season,country,quarter,semi,final,won,highest
 1968/69,Portugal,1,0,0,0,1
 1968/69,Holland,0,0,0,0,0
 1968/69,Belgium,0,0,0,0,0
-1968/69,Crotia,0,0,0,0,0
+1968/69,Croatia,0,0,0,0,0
 1968/69,Czechia,0,0,0,0,0
 1968/69,Denmark,0,0,0,0,0
 1968/69,Ukraine,0,0,0,0,0
@@ -1605,7 +1633,7 @@ season,country,quarter,semi,final,won,highest
 1967/68,Portugal,0,0,0,0,0
 1967/68,Holland,0,0,0,0,0
 1967/68,Belgium,0,0,0,0,0
-1967/68,Crotia,0,0,0,0,0
+1967/68,Croatia,0,0,0,0,0
 1967/68,Czechia,0,0,0,0,0
 1967/68,Denmark,0,0,0,0,0
 1967/68,Ukraine,0,0,0,0,0
@@ -1633,7 +1661,7 @@ season,country,quarter,semi,final,won,highest
 1966/67,Portugal,0,0,0,0,0
 1966/67,Holland,0,0,0,0,0
 1966/67,Belgium,0,0,0,0,0
-1966/67,Crotia,1,1,1,1,4
+1966/67,Croatia,1,1,1,1,4
 1966/67,Czechia,0,0,0,0,0
 1966/67,Denmark,0,0,0,0,0
 1966/67,Ukraine,0,0,0,0,0
@@ -1661,7 +1689,7 @@ season,country,quarter,semi,final,won,highest
 1965/66,Portugal,0,0,0,0,0
 1965/66,Holland,0,0,0,0,0
 1965/66,Belgium,0,0,0,0,0
-1965/66,Crotia,0,0,0,0,0
+1965/66,Croatia,0,0,0,0,0
 1965/66,Czechia,0,0,0,0,0
 1965/66,Denmark,0,0,0,0,0
 1965/66,Ukraine,0,0,0,0,0
@@ -1689,7 +1717,7 @@ season,country,quarter,semi,final,won,highest
 1964/65,Portugal,0,0,0,0,0
 1964/65,Holland,0,0,0,0,0
 1964/65,Belgium,0,0,0,0,0
-1964/65,Crotia,0,0,0,0,0
+1964/65,Croatia,0,0,0,0,0
 1964/65,Czechia,0,0,0,0,0
 1964/65,Denmark,0,0,0,0,0
 1964/65,Ukraine,0,0,0,0,0
@@ -1717,7 +1745,7 @@ season,country,quarter,semi,final,won,highest
 1963/64,Portugal,0,0,0,0,0
 1963/64,Holland,0,0,0,0,0
 1963/64,Belgium,1,1,0,0,2
-1963/64,Crotia,0,0,0,0,0
+1963/64,Croatia,0,0,0,0,0
 1963/64,Czechia,1,0,0,0,1
 1963/64,Denmark,0,0,0,0,0
 1963/64,Ukraine,0,0,0,0,0
@@ -1745,7 +1773,7 @@ season,country,quarter,semi,final,won,highest
 1962/63,Portugal,0,0,0,0,0
 1962/63,Holland,0,0,0,0,0
 1962/63,Belgium,0,0,0,0,0
-1962/63,Crotia,1,1,1,0,3
+1962/63,Croatia,1,1,1,0,3
 1962/63,Czechia,0,0,0,0,0
 1962/63,Denmark,0,0,0,0,0
 1962/63,Ukraine,0,0,0,0,0
@@ -1773,7 +1801,7 @@ season,country,quarter,semi,final,won,highest
 1961/62,Portugal,0,0,0,0,0
 1961/62,Holland,0,0,0,0,0
 1961/62,Belgium,0,0,0,0,0
-1961/62,Crotia,0,0,0,0,0
+1961/62,Croatia,0,0,0,0,0
 1961/62,Czechia,0,0,0,0,0
 1961/62,Denmark,0,0,0,0,0
 1961/62,Ukraine,0,0,0,0,0
@@ -1801,7 +1829,7 @@ season,country,quarter,semi,final,won,highest
 1960/61,Portugal,0,0,0,0,0
 1960/61,Holland,0,0,0,0,0
 1960/61,Belgium,0,0,0,0,0
-1960/61,Crotia,0,0,0,0,0
+1960/61,Croatia,0,0,0,0,0
 1960/61,Czechia,0,0,0,0,0
 1960/61,Denmark,1,0,0,0,1
 1960/61,Ukraine,0,0,0,0,0
@@ -1829,7 +1857,7 @@ season,country,quarter,semi,final,won,highest
 1958/60,Portugal,0,0,0,0,0
 1958/60,Holland,0,0,0,0,0
 1958/60,Belgium,1,1,0,0,2
-1958/60,Crotia,1,0,0,0,1
+1958/60,Croatia,1,0,0,0,1
 1958/60,Czechia,0,0,0,0,0
 1958/60,Denmark,0,0,0,0,0
 1958/60,Ukraine,0,0,0,0,0
@@ -1857,7 +1885,7 @@ season,country,quarter,semi,final,won,highest
 1955/58,Portugal,0,0,0,0,0
 1955/58,Holland,0,0,0,0,0
 1955/58,Belgium,0,0,0,0,0
-1955/58,Crotia,0,0,0,0,0
+1955/58,Croatia,0,0,0,0,0
 1955/58,Czechia,0,0,0,0,0
 1955/58,Denmark,1,0,0,0,1
 1955/58,Ukraine,0,0,0,0,0
