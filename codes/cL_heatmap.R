@@ -75,7 +75,7 @@ geom_rtile <- function(mapping = NULL, data = NULL,
 # captions and the title
 p_caption1 <- "\n\nData Source: uefa.com\n\n"
 p_caption2 <- "\n\nVisualization by Metehan Güngör\n\n"
-p_title <- "Most Successful Countries in UEFA Champions League (1955/56 - 2024/25)"
+p_title <- "Most Successful Countries in UEFA Champions League (1955/56 - 2025/26)"
 
 # plotting
 ggplot(uefa_cL, aes(x = season, y = country, fill = as.factor(highest))) +
@@ -107,7 +107,6 @@ ggplot(uefa_cL, aes(x = season, y = country, fill = as.factor(highest))) +
     na.value = "grey90"
   ) +
   # displaying one out of every five values (seasons)
-  scale_x_discrete(breaks = season_breaks)
-
-
-
+  scale_x_discrete(breaks = season_breaks) +
+  # reverse legend
+  guides(fill = guide_legend(reverse = TRUE))
