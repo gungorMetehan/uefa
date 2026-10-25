@@ -992,11 +992,11 @@ season,country,quarter,semi,final,won,highest
 1994/95,Hungary,0,0,0,0,0
 1994/95,Northern Ireland,0,0,0,0,0
 1993/94,England,0,0,0,0,0
-1993/94,Spain,1,1,1,0,3
+1993/94,Spain,0,1,1,0,3
 1993/94,Germany,0,0,0,0,0
-1993/94,France,1,1,0,0,2
-1993/94,Italy,1,1,1,1,4
-1993/94,Portugal,1,1,0,0,2
+1993/94,France,0,1,0,0,2
+1993/94,Italy,0,1,1,1,4
+1993/94,Portugal,0,1,0,0,2
 1993/94,Holland,0,0,0,0,0
 1993/94,Turkiye,0,0,0,0,0
 1993/94,Cyprus,0,0,0,0,0
@@ -1025,8 +1025,8 @@ season,country,quarter,semi,final,won,highest
 1992/93,England,0,0,0,0,0
 1992/93,Spain,0,0,0,0,0
 1992/93,Germany,0,0,0,0,0
-1992/93,France,1,1,1,1,4
-1992/93,Italy,1,1,1,0,3
+1992/93,France,0,0,0,1,4
+1992/93,Italy,0,0,1,0,3
 1992/93,Portugal,0,0,0,0,0
 1992/93,Holland,0,0,0,0,0
 1992/93,Turkiye,0,0,0,0,0
@@ -1054,10 +1054,10 @@ season,country,quarter,semi,final,won,highest
 1992/93,Hungary,0,0,0,0,0
 1992/93,Northern Ireland,0,0,0,0,0
 1991/92,England,0,0,0,0,0
-1991/92,Spain,1,1,1,1,4
+1991/92,Spain,0,0,0,1,4
 1991/92,Germany,0,0,0,0,0
 1991/92,France,0,0,0,0,0
-1991/92,Italy,1,1,1,0,3
+1991/92,Italy,0,0,1,0,3
 1991/92,Portugal,0,0,0,0,0
 1991/92,Holland,0,0,0,0,0
 1991/92,Turkiye,0,0,0,0,0
